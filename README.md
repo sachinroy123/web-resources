@@ -5,4 +5,7 @@ here i will add all the resources which required for developing the website..
 website title icon make website...
 https://www.favicon.cc/
 
+Color for Websites
+https://colorhunt.co/
+
 
