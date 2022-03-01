@@ -12,3 +12,5 @@ fontend challenges : Practise fontend skills
 https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3
 
 
+all resouces for website developement....
+https://www.appbrewery.co/p/web-development-course-resources
